@@ -1,0 +1,2 @@
+# Method_Cuantitative_Python
+Curso de métodos cuantitativos aplicado a las ciencias sociales en donde se usara como herramienta el lenguaje de programación Python, de forma tal que, cuando se trate de mostrar y justificar una expresión matemática se implementara métodos de programación dinámica y funcional para verificar la expresión en sí misma, revisar ejemplos y comparar dichos métodos con las librerias de Python a modo de herramientas para simplificar cálculos y código de programación.
